@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import './index.css'; // IMPORTANT : C'est ici que vos variables (--ole-blue, etc.) sont chargées
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
